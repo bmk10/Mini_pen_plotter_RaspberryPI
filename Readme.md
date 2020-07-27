@@ -4,6 +4,8 @@ This package includes python class and scripts for Raspberry Pi to control a hom
 
 ![Example](https://raw.githubusercontent.com/flodek/Mini_pen_plotter_RaspberryPI/master/example_2.png)
 
+![Example](https://raw.githubusercontent.com/flodek/Mini_pen_plotter_RaspberryPI/master/back.png)
+
 ![Example](https://raw.githubusercontent.com/flodek/Mini_pen_plotter_RaspberryPI/master/example_1.png)
 
 ![Example](https://raw.githubusercontent.com/flodek/Mini_pen_plotter_RaspberryPI/master/example.png)
